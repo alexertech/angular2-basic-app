@@ -9,10 +9,16 @@ Install NodeJS on your System so you can have NPM avialble. Then clone this repo
 ### TODO
 - Lots of features to come
 
+### Current version
+- V.1
+  * Courses and Authors components
+  * Courses and Authors services
+  * Basic workspace
+
 ## Authors
 
-* **Alex Barrios** - *Original Author* - [alexertech](https://github.com/alexertech)
-* Seed project from Programming with Mosh YouTube [Tutorial](https://www.youtube.com/watch?v=_-CD_5YhJTA)
+* **Alex Barrios** [alexertech](https://github.com/alexertech)
+* **Moshfegh Hamedani** "Programming with Mosh" YouTube Channel with the  [Tutorial](https://www.youtube.com/watch?v=_-CD_5YhJTA) for the first version of this project.
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
