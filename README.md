@@ -36,18 +36,18 @@ An Angular2 app have 4 key players:
 Every angular app have a root component at least. Just as example, a component can be a navigation bar, sidebar, and main. Also they can contain multiple components.
 
 Can be written as a simple classic object:
-
+```
  export class ObjectComponent {
   attribute: number;
   method (value) {
 
   }
  }
-
+```
 One interesting thing to have in mind is that a component can't access directly to the DOM, so for that we must use a "bind":
-
+```
   title = "Howdy"  -------->> <h1>howdy</h1>
-
+```
 The best thing about components is that they can be unit tested.
 
 + Services are the objects that can talk with thins like the DB (Mongo), Node or Whatever.
